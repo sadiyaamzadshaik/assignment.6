@@ -1,0 +1,38 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+  .main{
+      margin-top: 150px;
+      margin-left: 600px;
+      margin-right: 600px;
+      border: 2px solid rgb(29, 12, 12);
+      border-radius: 10px;
+      padding: 6px;
+      background-color: rgb(115, 118, 86);
+  }
+  .h1{
+    font-size: medium;
+  }
+  .image{
+    width: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+
+  }
+  
+    .btn{
+      font-weight: bolder;
+      padding: 15px 22px;
+      border-radius: 10px;
+      border: none;
+      background-color: rgb(230, 15, 87);
+      color: black;
+      margin: 5px auto;
+      cursor: pointer;
+    }
+  .btn:hover{
+    width: 50%;
+    box-shadow: none;
+background-color: rgb(255, 0, 183);
+  }
+  
